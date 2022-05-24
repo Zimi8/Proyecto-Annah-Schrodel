@@ -1,7 +1,7 @@
 img {
-  padding-left: 5px;
-  padding-right: 5px;
-  border-radius: 10px;
+  padding-left: 0px;
+  padding-right: 0px;
+  border-radius: 0px;
 }
 
 .header-praga {
@@ -113,7 +113,6 @@ div .galeria-praga .galeria .img-gal {
 
 * {
   font-family: "Zen Loop", cursive;
-  font-size: 1.3rem;
 }
 
 /*# sourceMappingURL=llegadacss.css.map */
