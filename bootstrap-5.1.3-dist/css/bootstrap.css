@@ -4503,6 +4503,7 @@ textarea.form-control-lg {
   margin-right: 0;
   margin-left: 0;
   margin-bottom: 10px;
+  padding-bottom: 2px;
 }
 .card > .list-group {
   border-top: inherit;
